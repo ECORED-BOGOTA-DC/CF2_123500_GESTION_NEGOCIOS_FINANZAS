@@ -509,10 +509,246 @@
                 figure
                   img(src='@/assets/curso/tema1/img51.svg')
 
+  .container.container02.px-4.px-md-5
+    .row.mb-5
+      .col-auto
+        figure
+          img(src='@/assets/curso/tema1/img52.svg')
 
-    
+    p Un modelo de planeación estratégica es un término colectivo para varios elementos que contribuyen al proceso de planificación estratégica. Se puede pensar en los modelos de planificación estratégica como plantillas en las que puede colocar sus propias ideas. Al final, obtendrá un plan estratégico que está estructurado de manera sensata y le brinda un conjunto claro de acciones sobre las cuales trabajar.
+    p.mb-5 Los modelos de planeación estratégica proporcionan una estructura general que aplica a su proceso de planificación estratégica; es decir, los modelos de planificación estratégica proporcionan una forma de estructurar la información de su estrategia y el contenido de su plan estratégico, los diversos componentes y cómo interactúan entre sí de manera coherente: lo que hacen, cómo encajan y en qué orden. 
 
-      
+    .row.justify-content-center.mb-5
+      .col-lg-10.col-md-11.col-12.BGIMG05.py-4  
+        .row.justify-content-center
+          .col-md-11.col-12.px-4  
+            p.text-center Ahora, una vez definido qué es realmente un modelo de planeación estratégica, se deben tener en cuenta los elementos que la contienen: estructura y evaluación.  
+            .tarjeta-avatar-b.mb-5
+              .tarjeta-avatar-b__img
+                img.px-3(src='@/assets/curso/tema1/img55.svg' alt='AvatarTop')
+              .tarjeta.BG06
+                .py-4.pe-4 
+                  p.mb-0 La <b>estructura</b> se refiere a los diferentes componentes del plan estratégico y cómo encajan todos juntos. Por ejemplo, la estructura puede comenzar con la formulación de la visión, luego fluir hacia valores, áreas de enfoque y cualquier número de niveles de objetivos.
+            .tarjeta-avatar-b.mb-5
+              .tarjeta-avatar-b__img
+                img.px-3(src='@/assets/curso/tema1/img56.svg' alt='AvatarTop')
+              .tarjeta.BG06
+                .py-4.pe-4 
+                  p.mb-0 La <b>evaluación</b> se refiere a cómo hará el seguimiento y la presentación de informes sobre los elementos de la meta de su estrategia.
+            p De igual forma, para su desarrollo, se hace necesario reconocer a fondo los siguientes aspectos de la organización.
+      .col-lg-8.col-md-10.col-12.mb-5
+        .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
+          h5 Figura 9
+          span Aspectos organizacionales esenciales
+        figure.mb-5(data-aos="zoom-in")
+          img(src='@/assets/curso/tema1/img57.svg')
+      .col-lg-10.col-md-11.col-12.BGIMG06.py-3
+        .row.justify-content-center
+          .col-md-11.col-12.px-4  
+            p Independientemente de cuál modelo de planeación estratégica se elija como el más apropiado para sus necesidades, existen mejores prácticas para asegurarse de que tenga éxito. Por ejemplo, al hacer la investigación, busque reunir un grupo que sea diverso, pero también apropiado para la meta, de tal forma que genere más ideas al equipo de trabajo.
+
+    p.mb-5 Cuando se tiene un plan, se debe ser realista. Si no puede ser ejecutado, entonces no se ha hecho bien el trabajo. Este debe ser accionable, con objetivos, tareas, responsabilidades delineadas, rendición de cuentas y plazos claramente definidos, sin querer decir esto que no pueda ser flexible; los planes cambian, por lo que es mejor no ser rígido al respecto.
+
+    .row.justify-content-center
+      .col-md-4.col-8.mb-3
+        figure(data-aos="zoom-in")
+          img(src='@/assets/curso/tema1/img58.png')
+      .col-md-8.col-12.mb-3
+        p Si no se tiene un plan para alcanzar los objetivos, se está condenado al fracaso, lo que podría ser perder participación de mercado o cerrar, ninguno de los cuales es un camino a seguir para una empresa viable. Cada organización es única, por lo tanto, cada plan estratégico es único, el objetivo aquí es brindarle una perspectiva sobre cómo puede abordar su planeación antes de sumergirse en los detalles.
+        p A continuación, se exponen algunos modelos de planeación estratégica, los cuales no son camisa de fuerza, puesto que la organización puede ser autora de su propio modelo de planeación estratégica.
+
+    .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
+      h5 Tabla 1
+      span Modelos de planeación
+
+    table.mb-5(data-aos="fade-right")
+      thead
+        tr(style="background-color: #3AE3FE; color: #000")
+          th(colspan="6")
+            h4.text-center.py-2 Tipos de modelos
+      tbody
+        tr
+          td(style="background-color: #E1EFE3; color: #000").text-center
+          td(style="background-color: #E1EFE3; color: #000").text-center <b>Modelo lineal</b>
+          td(style="background-color: #E1EFE3; color: #000").text-center <b>Cuadro de mando Integral</b>
+          td(style="background-color: #E1EFE3; color: #000").text-center <b>Modelo cero o básico</b>
+          td(style="background-color: #E1EFE3; color: #000").text-center <b>Modelo desconocido</b>
+          td(style="background-color: #E1EFE3; color: #000").text-center <b>Modelo de objetivos</b>
+        tr  
+          td.text-center <b>Descripción</b>
+          td Requiere de la cooperación de varias unidades administrativas para ejecutar dicho modelo, tal es el caso de las áreas comerciales y de los ingenieros de sistemas que tienen como responsabilidad la seguridad de la información que produce la empresa. 
+          td En él se establece la valoración de las oficinas relacionadas con el cumplimiento de los objetivos que se describen en el plan estratégico, ejecutado a través de comunicaciones asertivas que se apliquen a las estrategias planteadas.
+          td Este modelo es sencillo y lo utilizan empresas pequeñas para introducir la planeación estratégica, no requiere de grandes volúmenes de información, por ello es ideal para las empresas que quieren iniciar con un plan estratégico.
+          td Este modelo de la planeación estratégica apunta a desarrollar estrategias y objetivos basados en nuevos descubrimientos, como el estudio de factibilidad de un nuevo producto, competencias existentes en el mercado y los segmentos a quienes estará dirigido. Busca insertar su producción en un mercado innovador.
+          td Es el más recomendado para las empresas consolidadas, ya que enfatiza su desarrollo en la ampliación de los objetivos a largo plazo, haciendo exploración de todo el contexto que rodea a la organización, sin dejar brechas que perjudiquen el cumplimiento de los cronogramas.
+        tr 
+          td.text-center <b>Aspectos para su desarrollo</b>
+          td *Ejecución de la estrategia de negocio.<br>*Herramientas tecnológicas que aporten al desarrollo de las estrategias comerciales.<br>*Medir la competencia para lanzar nuevos productos y servicios.
+          td *Indicadores de los objetivos.<br>*Evaluaciones de desempeño al personal.<br>*Controles financieros.<br>*Los planes de acción trazados para el desarrollo del plan estratégico. 
+          td *Misión de la organización.<br>*Objetivos a alcanzar.<br>*Estrategias y actividades para cumplir con los objetivos.<br>*Control e informes de resultados sobre la planeación estratégica.
+          td *Mercados para crecer.<br>*Capturar nueva demanda.<br>*Productos únicos.<br>*No haya competencia.
+          td *Análisis DOFA (debilidades, oportunidades, fortalezas y amenazas).<br>*Misión.<br>*Planeación.<br>*Presupuesto.<br>*Cronograma.<br>*Monitoreo o control de los avances.
+
+    .row.mb-5
+      .col-auto
+        figure
+          img(src='@/assets/curso/tema1/img59.svg')
+
+    p.mb-5 Este tipo de modelo, al igual que los anteriores, tiene una clasificación específica, la cual está enfocada, como bien lo indica, en procesos gerenciales de una organización. Dependiendo del logro a alcanzar, se implementa alguno de estos modelos.
+
+    ImagenInfograficaB.color-acento-botones.mb-5
+      template(v-slot:imagen)
+        figure
+          img(src='@/assets/curso/tema1/img60.svg')
+      div(x="16.3%" y="72%" tooltip="tooltip de max 35 caracteres")
+        .row.justify-content-center.align-items-center
+          .col-md-11
+            h5 Calidad total
+            p Los colaboradores de bajo nivel hasta los ejecutivos de más alto rango se concentran en mejorar la calidad y, por lo tanto, brindar servicios al cliente dejando como resultado la satisfacción.
+            p Se centra en las mejoras de procesos a largo plazo, en lugar de simplemente enfatizar las ganancias financieras a corto plazo.
+      div(x="33.4%" y="72%" tooltip="tooltip de max 35 caracteres")
+        .row.justify-content-center.align-items-center
+          .col-md-11
+            h5 Kaizen
+            p Cuando se aplica al lugar de trabajo, significa una mejora continua que involucra a todos, tanto a los gerentes como a los trabajadores, implica hacer que el ambiente de trabajo sea más eficiente y eficaz, creando una atmósfera de equipo, mejorando los procedimientos cotidianos y asegurando el compromiso de los empleados.
+      div(x="50.6%" y="72%" tooltip="tooltip de max 35 caracteres")
+        .row.justify-content-center.align-items-center
+          .col-md-11
+            h5 Justo a tiempo
+            p Las empresas emplean esta estrategia para aumentar la eficiencia y disminuir el desperdicio. Se aplica justo a tiempo a través de un sistema de inventario que alinea los pedidos de materias primas de los proveedores directamente con los programas de producción; también reduce los costos de inventario. 
+            p Este método requiere que los productores pronostiquen la demanda con precisión, solo cuando la necesiten para el proceso de producción, reduciendo los costos de inventario. 
+      div(x="68%" y="72%" tooltip="tooltip de max 35 caracteres")
+        .row.justify-content-center.align-items-center
+          .col-md-11
+            h5 Reingeniería
+            p La ejecución adecuada de la reingeniería puede cambiar las reglas del juego para cualquier negocio. Si se maneja adecuadamente, la reingeniería de procesos de negocios puede hacer milagros en una empresa en quiebra o estancada, aumentando las ganancias e impulsando el crecimiento.
+            p La productividad de los empleados definitivamente se ve afectada durante la reingeniería de procesos; si los procesos se gestionan mejor durante el tiempo de ejecución, la necesidad de reingeniería se reduce considerablemente.
+      div(x="84.7%" y="72%" tooltip="tooltip de max 35 caracteres")
+        .row.justify-content-center.align-items-center
+          .col-md-11
+            h5 Benchmarking
+            p Tiene como objetivo proponer un modelo de evaluación comparativa, que se puede aplicar para todos los tipos de mediciones. Es necesario evaluar los puntos fuertes y débiles de la operación interna. 
+            p Solo se estará preparado para diferenciar sus posibilidades en el mercado si se conoce la fuerza y debilidad de las competencias.
+
+    separador
+
+    #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 1.4. Recursos
+
+    p.mb-5 Cuando se comienza un negocio, es posible que se haya pensado que todo se trataba de los ingresos que puede obtener, qué tan grande puede llegar a ser y en qué piso estará la oficina. Los recursos organizacionales se combinan, usan y transforman en productos terminados durante el proceso de producción.
+
+    .row.justify-content-center
+      .col-md-10.col-12.mb-3
+        .bloque-texto-c.color-secundario.p-4.mb-5
+          i.fas.fa-quote-right
+          h5.mb-2 Desde el punto de vista de Peter Drucker, en el escrito de Sánchez Murillo (2006), los gerentes dan dirección a sus organizaciones, brindan liderazgo y deciden cómo usar los recursos de la organización para lograr las metas.
+        p.mb-5 A continuación, se describen los tipos de recursos existentes y necesarios en una organización para posicionarse en el mercado:
+        AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
+          .row.justify-content-center.px-4(titulo="Recursos humanos")
+            .col-4.p-0
+              figure
+                img(src='@/assets/curso/tema1/img61.png')
+            .col-8
+              p Son las personas que trabajan para una organización. Sus habilidades y conocimientos son invaluables para los gerentes. La actitud de los expertos debe administrar la organización y saber trabajarla de manera efectiva. Enfatiza la oportunidad de aplicar el conocimiento y la necesidad de aprender y crecer al hacerlo, el conocimiento no tiene sentido a menos que haya la oportunidad de aplicarlo y esto se logra a través de la exposición.
+              p La capacitación, por otro lado, es un esfuerzo organizacional destinado a ayudar a un empleado a adquirir las habilidades básicas requeridas para la ejecución efectiva y eficiente de las funciones para las que ha sido contratado.
+            p El desarrollo de la mano de obra es típicamente una parte de la estrategia de recursos humanos de la organización y tiene como objetivo maximizar el potencial del capital humano para alcanzar los objetivos comerciales estratégicos 
+          .row.justify-content-center.px-4(titulo="Recursos monetarios o financieros")
+            .col-4.p-0
+              figure
+                img(src='@/assets/curso/tema1/img62.png')
+            .col-8
+              p Estos, a menudo, incluyen efectivo, crédito y líneas de crédito, junto con la capacidad de tener opciones de planes de acciones para los empleados de la organización. La mayoría de las empresas tienen recursos financieros de manera regular, pero pocas empresas tendrán recursos financieros extremadamente sólidos, como los bancos, que se basan completamente en recursos financieros y los utilizan como un recurso clave.
+            p La función de la administración es planificar, organizar, dotar de personal, dirigir y controlar. Cada una de estas funciones está influenciada en gran medida por la cantidad de dinero que hay. Los gerentes y el personal del programa simplemente no pueden llevar a cabo sus responsabilidades asignadas de manera efectiva sin comprender sus limitaciones financieras. Los gerentes deben tener algún medio para saber lo que está sucediendo con respecto a sus recursos financieros si van a tomar decisiones gerenciales informadas. Necesitan hacer un seguimiento de cómo se gasta el dinero, un informe que dicte cuánto dinero había, cuánto se gastó, en qué se gastó y cuánto queda. 
+            p Esta responsabilidad se lleva a cabo instalando y administrando un sistema de contabilidad financiera, se dispone de una serie de programas informáticos aceptables para satisfacer esta necesidad contable. Por lo general, es innecesario para la mayoría de las organizaciones dedicar tiempo y recursos a diseñar e implementar un sistema único. 
+          .row.justify-content-center.px-4(titulo="Recursos de capital o de producción")
+            .col-4.p-0
+              figure
+                img(src='@/assets/curso/tema1/img63.png')
+            .col-8
+              p Las materias primas son los elementos utilizados directamente para la fabricación de productos, proporcionando un suministro adecuado de materiales al menor costo posible; es decir, se ocupa de las materias primas, la adquisición de máquinas y otros equipos necesarios para el proceso de producción, y repuestos para el mantenimiento de la planta. 
+              p Comienza con la determinación de la calidad y cantidad de los materiales, y finaliza con su envío a producción para satisfacer la demanda del cliente, según el cronograma y al menor costo.  
+          .row.justify-content-center.px-4(titulo="Recursos comerciales")
+            .col-4.p-0
+              figure
+                img(src='@/assets/curso/tema1/img64.png')
+            .col-8
+              p Los recursos comerciales son de naturaleza no física e intangible, como las patentes del producto, las marcas de la organización, los datos del cliente y el conocimiento del cliente, e incluso el talento en la organización como una forma de recurso intelectual. 
+              p Una vez que se desarrollan, pueden ofrecer ventajas únicas a la organización, como ofrecer descuentos y ofertas especiales para clientes habituales o compras repetidas del mismo cliente. Los tipos de recursos comerciales afectarán la sostenibilidad de la organización junto con su rentabilidad. 
+          .row.justify-content-center.px-4(titulo="Recursos físicos")
+            .col-4.p-0
+              figure
+                img(src='@/assets/curso/tema1/img64.png')
+            .col-8
+              p Estos se consideran activos tangibles que la organización utiliza para crear una oferta de valor y una propuesta para sus clientes. Los recursos físicos pueden incluir el equipo, los edificios, el inventario, la planta de fabricación y la red de distribución, que son extremadamente cruciales para que el negocio funcione correctamente. Los recursos físicos son importantes para el funcionamiento de la organización, ya que, sin cosas como equipo, inventario y planta de fabricación es difícil que la empresa funcione.
+            p Son las máquinas utilizadas durante el proceso de fabricación. Las máquinas modernas pueden mejorar en gran medida la eficiencia del proceso de fabricación. Si una organización usa maquinaria vieja y obsoleta, es posible que no pueda competir con una organización que use maquinaria más eficiente.  La gestión de materiales es la planificación, dirección, control y coordinación de aquellas actividades relacionadas con los requisitos de materiales e inventario, desde el punto de su inicio hasta su introducción en el proceso de fabricación.
+      .col-md-8.col-10.mb-3.BG07.p-3
+        p.mb-0 Los recursos que son importantes para la organización y crean una propuesta de valor en el servicio a sus clientes, y además le entregan el producto, se denominan recursos clave. Estos tipos de recursos comerciales son cruciales y es importante tenerlos para que su negocio tenga éxito. Suelen basarse en recursos tangibles e intangibles.
+
+    separador
+
+  .container.BGIMG07.px-4.px-md-5.pt-4  
+    #t_1_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 1.5 Planeación
+
+    p.mb-5 Aquí es donde se pronosticarán los objetivos y metas que debe cumplir la empresa y los métodos a llevar a cabo. También contribuye a asignar eficientemente los recursos. Entre sus premisas, se encuentran:
+
+    .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
+      h5 Figura 10
+      span Premisas de la planeación
+    figure.mb-5(data-aos="zoom-in")
+      img(src='@/assets/curso/tema1/img67.svg')
+
+    .row.justify-content-center.mb-5
+      .col-md-10.col-12
+        p.mb-5 En una organización, la planeación de la gestión es el establecimiento de una estrategia que permite alcanzar un conjunto de objetivos preestablecidos. Dentro del proceso de planeación, se pueden identificar los siguientes pasos en los que se involucran algunas actividades específicas.
+        .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
+          h5 Figura 11
+          span Proceso de planeación
+        figure.mb-5(data-aos="zoom-in")
+          img(src='@/assets/curso/tema1/img68.svg')
+      .col-md-6.col-12
+        p Los principios de la planeación, por su parte, se pueden describir de esta manera:
+
+    SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
+      .tarjeta-avatar
+        img(src='@/assets/curso/tema1/img69.svg' alt='AvatarTop')
+        .tarjeta.color-primario
+            .p-5
+              p <b>Inherencia:</b> toda organización debe contar con un plan que determine cómo resolver determinados problemas y así alcanzar los objetivos de la forma más eficiente posible.
+      .tarjeta-avatar
+        img(src='@/assets/curso/tema1/img70.svg' alt='AvatarTop')
+        .tarjeta.color-primario
+            .p-4
+              p.mb-0 <b>Racionalidad:</b> consiste en comprender un problema para luego determinar los criterios de diseño del plan, el establecimiento de alternativas y su aplicación. 
+              p Las decisiones deben tomarse con base en la lógica y la razón, no de acuerdo con las emociones y los valores.
+      .tarjeta-avatar
+        img(src='@/assets/curso/tema1/img71.svg' alt='AvatarTop')
+        .tarjeta.color-primario
+            .p-5
+              p.mb-0 <b>Unidad:</b> se asignan objetivos que, a su vez, deberán orientarse hacia una meta común; si bien existe un plan para cada una de las funciones, todas deben unirse en un plan principal.
+      .tarjeta-avatar
+        img(src='@/assets/curso/tema1/img72.svg' alt='AvatarTop')
+        .tarjeta.color-primario
+            .p-5
+              p.mb-0 <b>Compromiso:</b> para llegar a la meta, se debe calcular el tiempo que implica el compromiso de cada recurso.
+      .tarjeta-avatar
+        img(src='@/assets/curso/tema1/img73.svg' alt='AvatarTop')
+        .tarjeta.color-primario
+            .p-5
+              p.mb-0 <b>Exactitud:</b> el plan debe ser exacto, cualquier error puede afectar el resto de funciones de la organización, cuanto más precisos los planes, mayores serán las posibilidades de lograr los objetivos.
+      .tarjeta-avatar
+        img(src='@/assets/curso/tema1/img74.svg' alt='AvatarTop')
+        .tarjeta.color-primario
+            .p-5
+              p.mb-0 <b>Factibilidad:</b> todo plan debe ser realista: diseñado con base en la experiencia, hechos concretos y recursos disponibles.            
+
+    p.mb-5 Ahora bien, con base en toda la descripción previamente dada sobre la planeación, se destacan ciertos elementos que la componen de manera transversal. 
+
+    .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
+      h5 Figura 12
+      span Elementos que componen la planeación
+    figure.mb-5(data-aos="zoom-in")
+      img(src='@/assets/curso/tema1/img75.svg')
 
 </template>
 

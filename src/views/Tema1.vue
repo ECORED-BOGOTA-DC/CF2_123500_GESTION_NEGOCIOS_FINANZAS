@@ -743,12 +743,300 @@
               p.mb-0 <b>Factibilidad:</b> todo plan debe ser realista: diseñado con base en la experiencia, hechos concretos y recursos disponibles.            
 
     p.mb-5 Ahora bien, con base en toda la descripción previamente dada sobre la planeación, se destacan ciertos elementos que la componen de manera transversal. 
-
+  
+  .container.container02.px-4.px-md-5
     .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
       h5 Figura 12
       span Elementos que componen la planeación
     figure.mb-5(data-aos="zoom-in")
       img(src='@/assets/curso/tema1/img75.svg')
+
+    p.mb-5 Existen diferentes tipos de planeación: estratégica, táctica y operacional.
+
+    .row.justify-content-center.mb-5
+      .col-md-10.col-12
+        AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
+          .row.justify-content-center.px-4(titulo="Estratégica")
+            .col-4.mb-4
+              figure
+                img(src='@/assets/curso/tema1/img76.png')
+            .col-8
+              p Es una planeación a largo plazo, realizada por los directivos de la organización. Analiza cómo inciden los factores externos e internos en los objetivos establecidos: campañas publicitarias, presencia en los medios, incursión en el mercado, etc.
+              p La planeación estratégica es el proceso de la empresa de definir objetivos, misiones y valores organizacionales (incluida su dirección a largo plazo), para comprender mejor los recursos y el presupuesto que necesita asignar para garantizar la eficacia del plan. Esto puede incluir definir qué acciones deben tomarse para lograr esos objetivos desde un alto nivel.
+            p El plan estratégico se ejecuta de arriba hacia abajo; además, su alcance es limitado y puede cambiar anualmente con énfasis en el mapeo de actividades de rutina.
+          .row.justify-content-center.px-4(titulo="Táctica")
+            .col-4.mb-4
+              figure
+                img(src='@/assets/curso/tema1/img77.png')
+            .col-8
+              p Son los planes que están diseñados para enfrentar una crisis y por eso están ligados a decisiones de corto plazo que responden al plan estratégico. La planeación táctica es un tipo de planificación que implica dividir un plan estratégico a largo plazo en planes a corto plazo. Las empresas y los equipos suelen utilizar este tipo de plan cuando tienen objetivos a largo plazo que se extienden más allá de dos o tres años. 
+              p Hay varios elementos clave de un plan táctico:
+            .BG01.p-3.mb-4
+              ul.lista-ul
+                li.mb-0 
+                  <i class="fas fa-circle fa-xs" style="color:#359547!important;"></i>
+                  | Los objetivos específicos deben ser a corto plazo, que se puedan lograr en un año o menos. 
+                li.mb-0 
+                  <i class="fas fa-circle fa-xs" style="color:#359547!important;"></i>
+                  | Las tácticas no tienen plazos, sino que simplemente están ahí para respaldar su capacidad de alcanzar cada objetivo.
+                li.mb-0  
+                  <i class="fas fa-circle fa-xs" style="color:#359547!important;"></i>
+                  | Las acciones son pasos específicos o tareas que deben completarse para acercarse a la finalización de una meta. 
+                li.mb-0  
+                  <i class="fas fa-circle fa-xs" style="color:#359547!important;"></i>
+                  | Contemplar los recursos necesarios para ejecutar las acciones que permitan alcanzar los objetivos trazados.
+                li.mb-0  
+                  <i class="fas fa-circle fa-xs" style="color:#359547!important;"></i>
+                  | Cada tarea o acción que forma parte del plan táctico debe tener una fecha límite.
+            p.mb-4 Beneficios de un plan táctico
+            ul.lista-ul.mb-5
+              li.mb-0  
+                <i class="fas fa-circle fa-xs" style="color:#359547!important;"></i>
+                | Ayuda a convertir las estrategias en acciones que, en última instancia, contribuyen a una empresa o equipo a alcanzar sus objetivos.
+              li.mb-0 
+                <i class="fas fa-circle fa-xs" style="color:#359547!important;"></i>
+                | Fomenta un mejor rendimiento, ya que los empleados y los miembros del equipo tendrán pasos prácticos para alcanzar los objetivos.
+              li.mb-0  
+                <i class="fas fa-circle fa-xs" style="color:#359547!important;"></i>
+                | Permite a los departamentos y equipos priorizar su trabajo, y garantiza que cada tarea se vincula con la estrategia general. 
+          .row.justify-content-center.px-4(titulo="Operacional")
+            .col-4.mb-4
+              figure
+                img(src='@/assets/curso/tema1/img78.png')
+            .col-8
+              p Este plan aborda la forma en que se organizan los recursos (incluidos los empleados) para la resolución de conflictos. Un plan de operaciones resume cómo creará y entregará su producto o servicio a sus clientes. Los tipos de problemas operativos que enfrentará variarán según el tipo de negocio que opere. En la mayoría de las empresas, suceden muchas cosas además del negocio principal de proporcionar productos o servicios a los clientes. 
+              p La planeación operativa es lo que sucede cuando un equipo o departamento se basa en un plan estratégico de toda la empresa orientado al futuro: traza los presupuestos y objetivos del departamento para impulsar el éxito del plan estratégico con actividades específicas basadas en el equipo para los próximos 1 a 3 años.
+            p Los planes operativos funcionan mejor cuando todo un departamento participa, asigna fechas de vencimiento para tareas, mide objetivos para el éxito, informa sobre problemas y colabora de manera efectiva. 
+
+    p Los planes operativos funcionan mejor cuando todo un departamento participa, asigna fechas de vencimiento para tareas, mide objetivos para el éxito, informa sobre problemas y colabora de manera efectiva. 
+    p Dado que los planes operativos se construyen en un esfuerzo por asignar fondos, recursos y personal para cada periodo de 1 a 3 años, todos los pasos que debe incluir un plan operativo deberían servir, en última instancia, para ese esfuerzo. A continuación, se describe cada uno de sus pasos.
+
+    .row.justify-content-center
+      .col-md-10
+        PasosA.color-acento-botones.mb-5(tipo="l")
+          div
+            h4 1. Visualizar el plan operativo
+            p Las características principales de un plan operativo incluyen tareas para lograr objetivos particulares y claramente definidos, además de la gestión de su personal para garantizar que funcionen a niveles óptimos. Identifique su visión en lo que respecta a esos niveles y luego podrá comenzar con la fase de investigación.
+          div
+            h4 2. Investigar e identificar metas
+            p Para comenzar a desarrollar su plan operativo, comience por examinar sus objetivos, es decir, con qué presupuesto cuenta y rendición de cuentas con respecto a vigencias anteriores. Aborde esto desde una perspectiva presupuestaria, una perspectiva de recursos y desde la perspectiva de un miembro del equipo. Hay que pensar en esta época el próximo año, dentro de dos años, dentro de tres años, etc.
+            p Esto puede incluir plazos de lanzamiento de productos, cantidad de productos fabricados, cantidad de casos de servicio al cliente cerrados, cantidad de reseñas de 5 estrellas recibidas, cantidad de clientes adquiridos, ingresos aumentados en un cierto porcentaje, etc.
+          div
+            h4 3. Asignar presupuestos y personas
+            p Una vez que haya trazado sus objetivos, es importante tener en cuenta que el presupuesto de su plan operativo proviene del presupuesto anual de su departamento. Entonces, dicho esto, el presupuesto es lo más importante a considerar al comenzar a asignar tareas, recursos y presupuesto para los miembros del equipo.
+          div
+            h4 4. Informe sobre el plan operativo
+            p Una vez que se haya trazado el plan operativo, que debe incluir objetivos claros con entregables, metas, cronogramas y el personal necesario para lograr el plan, hay que desarrollar un proceso para informar sobre la ejecución del plan.
+
+    .cajon.color-secundario.p-4
+      p.mb-0 A modo de resumen, entonces, se pueden sintetizar los tipos de planeación de acuerdo con su periodo y amplitud, tal como se percibe en la siguiente tabla. Esto es interesante en el sentido que permite saber qué tipo de planeación se podría implementar de acuerdo con la necesidad que tenga la empresa en ese momento.
+
+    .row.justify-content-center.mb-5
+      .col-md-6.col-12.mb-3
+        .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
+          h5 Tabla 2
+          span Tipos de planeación
+
+        table.mb-5(data-aos="fade-right")
+          thead
+            tr
+              th(style="background-color: #3AE3FE; color: #000").text-center.py-2 PLANEACIÓN
+              th(style="background-color: #3AE3FE; color: #000").text-center.py-2 PERIODO
+              th(style="background-color: #3AE3FE; color: #000").text-center.py-2 AMPLITUD
+          tbody
+            tr
+              td(style="background-color: #E1EFE3; color: #000").text-center Estratégica
+              td(style="background-color: #E1EFE3; color: #000").text-center Largo plazo
+              td(style="background-color: #E1EFE3; color: #000").text-center Empresa
+            tr
+              td Táctica
+              td Mediano plazo
+              td Unidad de la empresa
+            tr
+              td(style="background-color: #E1EFE3; color: #000").text-center Operacional
+              td(style="background-color: #E1EFE3; color: #000").text-center Corto plazo
+              td(style="background-color: #E1EFE3; color: #000").text-center Tarea, actividad o función
+      .col-md-6.col-12.mb-3
+        p Cada uno de estos planes enunciados anteriormente son puestos en marcha mediante un plan de acción, para contribuir a los diferentes niveles de la planeación que se desarrollan en la organización; para ello, se procede a definir ampliamente los lineamientos de los planes de acción a través del siguiente video.      
+        figure
+          img(src='@/assets/curso/tema1/img83.svg')
+
+    figure.mb-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      
+    .row.justify-content-center
+      .col-md-8.col-10.mb-3.BG07.p-3
+        p.mb-0 El plan de acción, como documento, debe comprender inicialmente el objetivo final, los indicadores, las estrategias, las acciones o tareas, designar recursos y medir el progreso.
+
+    separador
+
+    #t_1_6.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 1.6. Cronogramas
+
+    p.mb-5 Un cronograma de actividades o programa de trabajo está diseñado para un período de tiempo específico, en el que se pretende que se lleven a cabo las actividades o acciones determinadas. El cronograma entregará los siguientes resultados:
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-md-6.col-12.mb-3
+        figure
+          img(src='@/assets/curso/tema1/img84.png')
+      .col-md-6.col-12.mb-3.py-3
+        p <span style="background-color: #3AE3FE; font-weight: bold;">  1 </span> La actividad que se está realizando actualmente. 
+        p <span style="background-color: #3AE3FE; font-weight: bold;">  2 </span> Qué actividades deben realizarse a continuación. 
+        p <span style="background-color: #3AE3FE; font-weight: bold;">  3 </span> Las actividades que ya se han realizado. 
+        p <span style="background-color: #3AE3FE; font-weight: bold;">  4 </span> Qué cambios se producen en las actividades.
+        p Asimismo, tiene unas características específicas:
+    
+    .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
+      h5 Figura 13
+      span Características de un cronograma
+    figure.mb-5(data-aos="zoom-in")
+      img(src='@/assets/curso/tema1/img85.svg')
+
+    .row.justify-content-center
+      .col-md-10.col-12.mb-3
+        p Al hacer un cronograma de actividades o programa de trabajo, hay tres cosas que se deben considerar: preparar, hacer y concluir. A continuación, se describen los pasos para un programa de trabajo.
+
+    ImagenInfografica.color-acento-botones.mb-5
+      template(v-slot:imagen)
+        figure
+          img(src='@/assets/curso/tema1/img86.svg')
+      .tarjeta.BG02.p-3(x="16%" y="79%" numero="+")
+        p Para hacer un cronograma de actividades, es importante hacer una lista aproximada de las actividades que se desean desarrollar en un lapso, con una idea clara de las responsabilidades para cada colaborador.
+      .tarjeta.BG02.p-3(x="33.4%" y="79%" numero="+")
+        p La ejecución de las actividades o responsabilidades debe ser planificada. Se necesita establecer distintas formas de completar las diferentes actividades; este proceso le da un detalle minucioso del tiempo que estima para cada actividad y cuánto le queda para el cumplimiento de ella.
+      .tarjeta.BG02.p-3(x="50.6%" y="79%" numero="+")
+        p Sus actividades deben seguir un orden cronológico u orden de procesos; es mejor si fluye según una secuencia, para que pueda establecer una interconexión con las actividades anteriores y posteriores.
+      .tarjeta.BG02.p-3(x="68%" y="79%" numero="+")
+        p Cada actividad debe completarse dentro de un marco de tiempo. Se puede establecer un límite para cada una de las actividades y responsabilidades, para que los involucrados en la ejecución de las actividades las desarrollen en el tiempo estipulado.
+      .tarjeta.BG02.p-3(x="84.6%" y="79%" numero="+")
+        p Una vez que haya diseñado su plan de programación de actividades, se debe mantener su ejecución y finalización dentro del marco de tiempo establecido. Mantener las actividades le ayudará a obtener un resultado efectivo en la planeación.
+
+    .row.justify-content-center
+      .col-md-10.col-12.mb-3
+        p Un programa de actividades está destinado a ayudar a una persona a administrar sus actividades diarias. Estas son algunas sugerencias para establecer un cronograma de actividades o programa de trabajo.
+        ul.lista-ul
+          li.mb-0 
+            <i class="fas fa-circle fa-xs" style="color:#3AE3FE!important;"></i>
+            | Asegúrese de que las actividades que escribirá sean realistas y alcanzables.
+          li.mb-0 
+            <i class="fas fa-circle fa-xs" style="color:#3AE3FE!important;"></i>
+            |	Estén bien redactadas y con la estructura adecuada. 
+          li.mb-0 
+            <i class="fas fa-circle fa-xs" style="color:#3AE3FE!important;"></i>
+            |	El cronograma o la asignación de tiempo para cada actividad debe coordinarse o funcionar con dicha actividad. Si el mensaje o los subtítulos no son suficientes para transmitir una actividad, puede usar imágenes para describirla.
+        p Asimismo, tenga en cuenta sus principales elementos:
+
+    .row.justify-content-center
+      .col-lg-4.col-8
+        a.anexo.mb-4(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-pdf.svg")
+          .anexo__texto
+            p <b>Anexo</b>. Elementos cronograma de actividades.
+
+    separador
+
+  .container.BGIMG01.px-4.px-md-5.pt-4
+    #t_1_7.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 1.7. Diagrama de causa y efecto
+
+    p El diagrama de causa y efecto es una herramienta gráfica que permite a un equipo identificar, categorizar y examinar las posibles causas relacionadas con un problema. La intención es exponer las causas raíz más probables para una mayor investigación.
+    p Los diagramas de causa y efecto son una herramienta útil cuando se trabaja para identificar las causas fundamentales de un problema durante una investigación de causas fundamentales con un equipo. El diagrama de causa y efecto examina por qué sucedió o podría suceder algo al organizar las causas potenciales en categorías más pequeñas. También puede ser útil para mostrar las relaciones entre los factores contribuyentes. Se observa gráficamente, ya que ilustra la relación entre un resultado dado y todos los factores que influyen en él.
+    p Hay tres beneficios significativos al usar un diagrama de causa y efecto con un equipo.
+
+    .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
+      h5 Figura 14
+      span Beneficios del diagrama causa y efecto
+    figure.mb-5(data-aos="zoom-in")
+      img(src='@/assets/curso/tema1/img87.svg')
+
+    p Asimismo, este diagrama cuenta con  una estructura específica y un proceso de elaboración determinado, tal como se aprecia en el siguiente interactivo.
+
+  .container.container02.px-4.px-md-5
+    .row.justify-content-center
+      .col-md-10.col-12.mb-5
+        ImagenInfografica.color-acento-botones.mb-5
+          template(v-slot:imagen)
+            figure
+              img(src='@/assets/curso/tema1/img88.svg')
+          .tarjeta.BG02.p-3(x="87.6%" y="69%" numero="+")
+            p El recuadro con el enunciado del problema se ubica a la derecha, aprovechando el tiempo de avance para reforzar las causas, que ocurren antes de que suceda el problema.
+            p Hay que escribir un enunciado claro del problema (título o resumen). Incluya elementos como quién, qué, cuándo, dónde y cuánto. Sea específico y asegúrese de que todos comprendan completamente el enunciado del problema.
+          .tarjeta.BG02.p-3(x="18%" y="17%" numero="+")
+            p Agregue de cuatro a seis ramas primarias que sean apropiadas para el diagrama, y enumere las categorías principales para las posibles causas.
+          .tarjeta.BG02.p-1(x="31.7%" y="38%" numero="+")
+            p.mb-0 Capture notas sobre la información adicional necesaria, experimentos potenciales, etc., para no ralentizar ni distraer el proceso de enumerar las causas. Trabaje para resolver el problema y revise el diagrama a medida que haya nueva información disponible o las causas iniciales investigadas no hayan conducido a una solución para el problema. Las causas inferiores pueden no ser obvias o ser menos probables que otras.
+            p Es una sesión de lluvia de ideas, por lo tanto, abstenerse de criticar o juzgar las causas como se sugieren. Hay tiempo más tarde para filtrar las sugerencias, pero esas sugerencias pueden desencadenar la línea de pensamiento que conduce a una solución.
+          .tarjeta.BG02.p-3(x="79.4%" y="28.5%" numero="+")
+            p El diagrama debe ser visible para todo el equipo involucrado en el trabajo del problema.
+      .col-md-10.col-12.mb-5.BG09.p-4
+        LineaTiempoC.color-secundario(text-small)
+          .row.justify-content-center(titulo="Paso 1")
+            .col-md-10
+              p <b> Paso No. 1. </b> Decidir sobre el efecto a examinar. El efecto se expresa como una cualidad particular, a través de características, problemas derivados del trabajo, objetivos de planificación, etc.
+              ul.lista-ul
+                li.mb-0 
+                  <i class="fas fa-circle fa-xs" style="color:#359547!important;"></i>
+                  | Desarrolle una definición operativa del efecto y asegurarse de que se entienda claramente.
+                li.mb-0 
+                  <i class="fas fa-circle fa-xs" style="color:#359547!important;"></i>
+                  | Recuerde, el efecto puede ser positivo (un objetivo) o negativo (un problema), dependiendo del tema que se esté discutiendo.
+          .row.justify-content-center(titulo="Paso 2")
+            .col-md-10
+              p <b> Paso No. 2. </b> Utilizar o seleccionar una herramienta de gráficos colocada de manera que todos puedan verla. Luego, hay que realizar el diagrama de esta manera:
+              ul.lista-ul
+                li.mb-0 
+                  <i class="fas fa-circle fa-xs" style="color:#359547!important;"></i>
+                  | Dibujar una flecha horizontal que apunte hacia la derecha (esta es la columna vertebral).
+                li.mb-0 
+                  <i class="fas fa-circle fa-xs" style="color:#359547!important;"></i>
+                  | A la derecha de la flecha, escribir una breve descripción del efecto o resultado que surge del proceso.
+          .row.justify-content-center(titulo="Paso 3")
+            .col-md-10
+              p <b> Paso No. 3. </b> Identificar las causas principales que contribuyen al efecto que se está estudiando. Estas son las etiquetas para las principales ramas del diagrama y se convierten en categorías bajo las cuales enumerar las muchas causas relacionadas con las mismas. Luego de etiquetar, hay que trazar una línea diagonal para formar una rama que conecta la categoría con la columna vertebral.
+          .row.justify-content-center(titulo="Paso 4")
+            .col-md-3
+              figure
+                img(src='@/assets/curso/tema1/img89.svg')
+            .col-md-7
+              p <b> Paso No. 4. </b> Identificar tantas causas o factores como sea posible y adjuntarlos como subramas de las ramas principales.
+              ul.lista-ul
+                li.mb-0 
+                  <i class="fas fa-circle fa-xs" style="color:#359547!important;"></i>
+                  | Si una causa menor se aplica a más de una causa mayor, hay que anotar ambas. 
+          .row.justify-content-center(titulo="Paso 5")
+            .col-md-3
+              figure
+                img(src='@/assets/curso/tema1/img90.svg')
+            .col-md-7
+              p <b> Paso No. 5. </b> Identificar niveles de causas cada vez más detallados y continuar con el diseño del diagrama. Las causas se pueden organizar mediante la formulación de la pregunta por qué.
+          .row.justify-content-center(titulo="Paso 6")
+            .col-md-10
+              p <b> Paso No. 6. </b> Analizar el diagrama para identificar las causas que justifican el problema. Dado que los diagramas de causa y efecto identifican sólo posibles causas, hay que buscar las causas que aparecen repetidamente, pues estas pueden representar causas fundamentales. También es necesario buscar aquellas que se pueden medir y cuantificar para posibles cambios que se realicen. 
+              p Este último paso es crucial, ya que invita a analizar en equipo el resultado del diagrama de causa y efecto. En esta etapa, se debe tener un diagrama que muestre todas las posibles causas del problema que se les ocurran. Esto puede implicar la exploración e indagación, la realización de encuestas y entrevistas, además de evaluaciones diseñadas para probar cuál de estas posibles causas está realmente contribuyendo al problema.
+          .row.justify-content-center(titulo="Beneficios")
+            .col-md-10
+              ul.lista-ul
+                li.mb-0 
+                  <i class="fas fa-circle fa-xs" style="color:#359547!important;"></i>
+                  | Identifica las posibles causas raíz, las razones básicas, para un efecto específico, problema o condición.
+                li.mb-0 
+                  <i class="fas fa-circle fa-xs" style="color:#359547!important;"></i>
+                  | Ordena y relaciona algunas de las interacciones entre los factores que afectan un proceso o situación particular.
+                li.mb-0 
+                  <i class="fas fa-circle fa-xs" style="color:#359547!important;"></i>
+                  | Analiza los problemas existentes para que se puedan tomar acciones correctivas.
+                li.mb-0 
+                  <i class="fas fa-circle fa-xs" style="color:#359547!important;"></i>
+                  | Indaga sobre problemas de mantenimiento con las herramientas utilizadas o la cantidad de herramientas disponibles.
+                li.mb-0 
+                  <i class="fas fa-circle fa-xs" style="color:#359547!important;"></i>
+                  | Es flexible y adaptable. Se puede usar también en problemas con materias primas, tiempo, transporte, calidad de los suministros, entre otros.
+
+      .col-md-8.col-12.mb-5.BG07.p-3
+        p Por último, una vez que se haya completado el diagrama, examine la información tal como se ha organizado para llegar a una solución y crear elementos de acción.
+
 
 </template>
 
@@ -756,9 +1044,7 @@
 export default {
   name: 'Tema1',
   components: {},
-  data: () => ({
-    // variables de vue
-  }),
+  data: () => ({}),
   mounted() {
     this.$nextTick(() => {
       this.$aosRefresh()

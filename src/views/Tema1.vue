@@ -44,32 +44,32 @@
         .row.justify-content-center.mb-4
           .col-4
             figure
-              img(src='@/assets/curso/tema1/img04.svg')          
+              img(src='@/assets/curso/tema1/img04.svg')
         h2.text-center Multidimensional
         p La mayoría de la gerencia supervisa el servicio o el ciclo de producción de una empresa u organización. Los gerentes trabajan en estrecha colaboración y brindan orientación a los miembros de su equipo. Un gerente considera a un miembro del personal como un individuo con diversas necesidades y como un componente del grupo más grande. Para ser efectivos, los gerentes influyen en los miembros de su equipo para que apliquen sus fortalezas únicas para lograr las metas de la organización.
       .col-md.tarjeta.color-acento-contenido.p-5
         .row.justify-content-center.mb-4
           .col-4
             figure
-              img(src='@/assets/curso/tema1/img05.svg')          
+              img(src='@/assets/curso/tema1/img05.svg')
         h2.text-center Dinámica
         p La administración es una función dinámica y evoluciona, se adapta a los cambios de su entorno, ya sean económicos, sociopolíticos o tecnológicos. Que la empresa pueda sobrevivir todavía depende de la eficacia con la que su administración pueda adaptarse a los nuevos requisitos del mercado.
       .col-md.tarjeta.color-acento-botones.p-5(data-aos="fade-left")
         .row.justify-content-center.mb-4
           .col-4
             figure
-              img(src='@/assets/curso/tema1/img06.svg')          
+              img(src='@/assets/curso/tema1/img06.svg')
         h2.text-center Intangible
         p La gestión no es un producto tangible, pero su presencia puede cambiar la forma en que funciona una organización. La gestión consiste en ideologías, políticas e interacción humana. Una buena gestión ayuda a mejorar los índices de consecución de los objetivos de una empresa, los niveles de satisfacción de los empleados y la facilidad general en el funcionamiento de la empresa.
 
     p.mb-5 Ahora bien, dichas características se fundamentan en las funciones de la administración, las cuales se explican a continuación:
 
-    TabsC.color-acento-botones
+    TabsC.color-acento-botones.mb-5
       .py-3.py-md-4.px-4.BG02(titulo="Planeación")
         .row.justify-content-center.align-items-center
           .col-md-5.col-12.mb-3
             figure
-              img(src='@/assets/curso/tema1/img07.png') 
+              img(src='@/assets/curso/tema1/img08.png')
           .col-md-7.col-12
             p La planeación implica la creación de una línea de tiempo de las tareas que deben completarse para lograr un objetivo específico. Los gerentes ejecutan la planeación, que debe llevarse a cabo de manera sistemática para evitar el desperdicio de recursos y tiempo. Un plan de acción detallado minimiza la confusión, el riesgo, el desperdicio y la incertidumbre. 
             .BG01.px-3.py-2
@@ -78,7 +78,7 @@
         .row.justify-content-center.align-items-center
           .col-md-5.col-12.mb-3
             figure
-              img(src='@/assets/curso/tema1/img08.png') 
+              img(src='@/assets/curso/tema1/img07.png')
           .col-md-7.col-12
             p El objetivo de la organización es fomentar una relación simbiótica entre el personal, los recursos financieros y físicos de la empresa. La adecuada organización proporciona el curso de acción que cumple con todos los parámetros para el éxito. La organización implica la identificación y clasificación de las actividades empresariales, la delegación y la coordinación. 
             .BG01.px-3.py-2
@@ -87,7 +87,7 @@
         .row.justify-content-center.align-items-center
           .col-md-5.col-12.mb-3
             figure
-              img(src='@/assets/curso/tema1/img09.png') 
+              img(src='@/assets/curso/tema1/img09.png')
           .col-md-7.col-12
             p La dotación de personal implica reclutar y formar un equipo para la organización. El proceso de dotación de personal de las empresas suele ser largo y profundo. 
             p La gerencia identifica los roles profesionales en la empresa y las habilidades/cualidades requeridas para desempeñarse bien en estos roles. Luego, el gerente selecciona al personal para esos roles a través de los procesos de contratación. Una vez seleccionados, los candidatos reciben formación y se incorporan a la plantilla de la empresa. Los gerentes también son responsables de otorgar evaluaciones y promociones como parte de la dotación de personal
@@ -95,7 +95,7 @@
         .row.justify-content-center.align-items-center
           .col-md-5.col-12.mb-3
             figure
-              img(src='@/assets/curso/tema1/img10.png') 
+              img(src='@/assets/curso/tema1/img10.png')
           .col-md-7.col-12
             p Dirigir implica dar los pasos necesarios para poner en marcha el trabajo y mantener la productividad para lograr los objetivos de la empresa, mediante acciones como supervisar, motivar y orientar a los miembros del personal; lo que es fundamental para las funciones de un gerente. 
             p También requiere excelentes habilidades de liderazgo, comunicación y relaciones interpersonales para impulsar al equipo hacia la consecución de los objetivos de la organización.
@@ -103,7 +103,7 @@
         .row.justify-content-center.align-items-center
           .col-md-5.col-12.mb-3
             figure
-              img(src='@/assets/curso/tema1/img11.png') 
+              img(src='@/assets/curso/tema1/img11.png')
           .col-md-7.col-12
             p Esta función administrativa verifica que en cada nivel se evita la desviación general de las especificaciones de calidad prescritas. 
             .BG01.px-3.py-2
@@ -182,14 +182,14 @@
     p.mb-5 La administración considera tener principalmente dos tipos de objetivos, en los cuales la gerencia debe tener presentes los intereses de todas las partes interesadas de la empresa, incluidos los empleados, los clientes y el gobierno. Estos son los objetivos organizacionales generales para cualquier empresa: 
 
     .row.justify-content-center.mb-5
-      .col-lg-5.col-md-6.col-10.mb-3
+      .col-lg-5.col-md-6.col-10.mb-3(data-aos="fade-right")
         .tarjeta.tarjeta-avatar-slide.BG03.p-5.h-100
           .tarjeta-avatar-slide__img.mb-4
             .tarjeta-avatar-slide__img__item: img.w-50(src='@/assets/curso/tema1/img15.svg')
             .tarjeta-avatar-slide__img__item: img.w-50(src='@/assets/curso/tema1/img17.svg')
           h5.mb-4 ●	Supervivencia:
           p Una organización necesita generar suficientes ingresos para cubrir sus costos operativos. 
-      .col-lg-5.col-md-6.col-10.mb-3
+      .col-lg-5.col-md-6.col-10.mb-3(data-aos="fade-left")
         .tarjeta.tarjeta-avatar-slide.BG03.p-5.h-100
           .tarjeta-avatar-slide__img.mb-4
             .tarjeta-avatar-slide__img__item: img.w-50(src='@/assets/curso/tema1/img16.svg')
@@ -197,7 +197,7 @@
           h5.mb-4 ●	Beneficio:
           p El beneficio proporciona un incentivo y es esencial para cubrir costos y riesgos sin precedentes asociados con la gestión de una empresa. 
 
-    .cajon.color-secundario.p-4.mb-4
+    .cajon.color-secundario.p-4.mb-4(data-aos="fade-right")
       p  Aunque no son tan mencionados, <span style="color:#2B7E3B !important; font-weight: bold;">los objetivos sociales</span>se utilizan en cierto punto; la gerencia es responsable de crear beneficios para la sociedad a través de su trabajo. Las empresas eligen hacer esto de diferentes maneras. Algunos pueden incorporar métodos de producción amigables con el medio ambiente, mientras que otros implementan salarios y oportunidades justos. Las empresas más grandes, a menudo, mantienen o financian iniciativas que brindan servicios básicos como atención médica y educación. Según la escala de sus operaciones, las empresas, a menudo, inician campañas de responsabilidad social.
 
     p Es vital que se creen objetivos específicos como parte de un plan de negocios. Establecer objetivos ayuda a impulsar a la empresa hacia el éxito continuo y sigue siendo un punto de referencia incluso en tiempos difíciles. 
@@ -208,47 +208,47 @@
       .col-md-10.col-12
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row.justify-content-center.px-4(titulo="Objetivos de ventas")
-            .col-4.p-0
+            .col-md-4.col-6.p-0.mb-md-0.mb-4
               figure
                 img(src='@/assets/curso/tema1/img19.png')
-            .col-8
+            .col-md-8.col-10
               p Ayudan a las empresas a medir su posición frente a los competidores de la industria. Estos objetivos tienden a enfocarse en las formas en que una organización puede superar a la competencia en participación de mercado, calidad del producto y reconocimiento de marca. 
               p Por ejemplo, si se posee una tienda de zapatos, un ejemplo de un objetivo de ventas podría ser <span style="color:#2B7E3B !important; font-weight: bold;">“aumentar sus ventas mensuales en un 10 % durante el transcurso del año”</span>. Para hacer esto, es posible que deba implementar una estrategia de marketing para atraer nuevos compradores o introducir nuevos artículos que le permitan aumentar las ventas a sus clientes existentes. Su empresa debe contratar empleados talentosos, que puedan implementar sus decisiones y mantener la productividad y la eficiencia. 
           .row.justify-content-center.px-4(titulo="Objetivos de recursos")
-            .col-4.p-0
+            .col-md-4.col-6.p-0.mb-md-0.mb-4
               figure
                 img(src='@/assets/curso/tema1/img20.png')
-            .col-8
+            .col-md-8.col-10
               p Cubren los objetivos de capacitación y desarrollo de los empleados de la organización. Un objetivo de recursos humanos podría ser <span style="color:#2B7E3B !important; font-weight: bold;">“reducir la rotación de empleados en un 20 % mediante la introducción de un nuevo programa de asistencia para empleados”</span>. 
               p La dotación de personal de una organización es también un foco de recursos humanos. Un objetivo para satisfacer las necesidades de personal podría ser la contratación activa de trabajadores calificados en la organización. 
             p Uno de los objetivos que a menudo se pasa por alto para las pequeñas empresas es garantizar que los empleados talentosos y capacitados permanezcan en la empresa. Cuando encuentre este tipo de trabajadores, su objetivo debe ser retenerlos ofreciéndoles salarios competitivos, incentivos y un ambiente de trabajo que sea inclusivo y armonioso. Invertir en programas de capacitación que brinden a sus empleados educación adicional también puede ayudar a lograr este objetivo.
           .row.justify-content-center.px-4(titulo="Objetivos comerciales")
-            .col-4.p-0
+            .col-md-4.col-6.p-0.mb-md-0.mb-4
               figure
                 img(src='@/assets/curso/tema1/img21.png')
-            .col-8
+            .col-md-8.col-10
               p Centrándose en el servicio al cliente, los gerentes comerciales establecen objetivos que se enfocan en brindar un servicio de calidad al cliente. Estos objetivos intentan <span style="color:#2B7E3B !important; font-weight: bold;">medir la satisfacción del cliente con los costos y la calidad general de un producto o servicio</span>. Otro podría ser reducir el número y la frecuencia de las devoluciones y quejas de los clientes, o mejorar el tiempo de respuesta a las consultas de los clientes. Establecer conciencia de marca.
               p En la era del <em>marketing</em> en redes sociales, muchas pequeñas empresas están descubriendo que el marketing de marca es otro objetivo vital. La marca trata de vender la experiencia de su producto o servicio al comunicarle a su audiencia cómo su negocio satisface un deseo o necesidad y hace que sus vidas sean más convenientes. Un objetivo de marca podría ser <span style="color:#2B7E3B !important; font-weight: bold;">“aumentar su conocimiento de las redes sociales mediante el análisis de una métrica como las visitas al sitio web”</span>.
             .BG01.p-4
               p Un objetivo comercial común es ejecutar una operación rentable, lo que generalmente significa aumentar los ingresos y limitar los gastos. Para alcanzar esta meta, los objetivos podrían consistir en <span style="color:#2B7E3B !important; font-weight: bold;">aumentar las ventas anuales en un 10 % o conseguir tres nuevas cuentas cada mes</span>.
           .row.justify-content-center.px-4(titulo="Objetivos de <em>marketing</em>")
-            .col-4.p-0
+            .col-md-4.col-6.p-0.mb-md-0.mb-4
               figure
                 img(src='@/assets/curso/tema1/img22.png')
-            .col-8
+            .col-md-8.col-10
               p Un plan de promoción describe las herramientas y tácticas que utilizará una empresa para lograr sus objetivos de <em>marketing</em>. Por ejemplo, si un objetivo de <em>marketing</em> es <span style="color:#2B7E3B !important; font-weight: bold;">“crear conciencia de marca para un material de construcción entre los constructores de una ciudad específica”</span>, las herramientas y tácticas pueden incluir anuncios en las revistas de asociaciones locales de constructores de viviendas, patrocinar un evento al que asistan constructores u ofrecer descuentos promocionales a los constructores para que prueben el producto.
           .row.justify-content-center.px-4(titulo="Objetivos operativos")
-            .col-4.p-0
+            .col-md-4.col-6.p-0.mb-md-0.mb-4
               figure
                 img(src='@/assets/curso/tema1/img23.png')
-            .col-8
+            .col-md-8.col-10
               p Los objetivos operativos son el desglose de las metas diarias, semanales o mensuales del proyecto en tareas factibles, para ayudar a la gerencia y al personal a lograr el plan estratégico de promoción general. 
               p Establecer los objetivos correctos es crucial para crear conciencia, atraer clientes potenciales y convertirlos en clientes. Al igual que con los objetivos estratégicos, los objetivos operativos de marketing deben ser cuantificables y específicos, pero con un enfoque más limitado.
           .row.justify-content-center.px-4(titulo="Objetivos financieros")
-            .col-4.p-0
+            .col-md-4.col-6.p-0.mb-md-0.mb-4
               figure
                 img(src='@/assets/curso/tema1/img24.png')
-            .col-8
+            .col-md-8.col-10
               p Generan rentabilidad y solvencia a la empresa, por ende, es fundamental que se diseñen y se ejecuten para aumentar el rendimiento económico de la empresa. Un ejemplo de un objetivo financiero podría ser el crecimiento de los ingresos y ganancias de la empresa. Adjuntar un número cuantificable, como un <span style="color:#2B7E3B !important; font-weight: bold;">crecimiento del 15 % en los ingresos y ganancias dentro de los próximos 12 meses</span>, es ideal porque puede medirse y ajustarse si es necesario.
               p Otro objetivo financiero podría centrarse en aumentar el capital y las inversiones, como <span style="color:#2B7E3B !important; font-weight: bold;">“atraer nuevos accionistas e inversores mejorando la solvencia y el flujo de caja”</span>. Aumento de las cifras de ventas.
 
@@ -280,7 +280,7 @@
           span Aspectos del plan estratégico
         <hr style="color: #2B7E3B; background-color: #2B7E3B; height: 2px; border-color: #2B7E3B; opacity: 1;" />
         .row.justify-content-center.align-items-center
-          .col-2
+          .col-md-2.col-4.mb-md-0.mb-4
             figure(data-aos="zoom-in")
               img.p-4(src='@/assets/curso/tema1/img27.svg')
           .col-10
@@ -291,7 +291,7 @@
       .col-lg-10.col-12
         <hr style="color: #2B7E3B; background-color: #2B7E3B; height: 2px; border-color: #2B7E3B; opacity: 1;" />
         .row.justify-content-center.align-items-center
-          .col-2
+          .col-md-2.col-4.mb-md-0.mb-4
             figure(data-aos="zoom-in")
               img.p-4(src='@/assets/curso/tema1/img28.svg')
           .col-10
@@ -300,7 +300,7 @@
             p Los objetivos medibles son importantes porque permiten a los líderes empresariales determinar qué tan bien se está desempeñando el negocio en comparación con los objetivos y la misión general.
         <hr style="color: #2B7E3B; background-color: #2B7E3B; height: 2px; border-color: #2B7E3B; opacity: 1;" />
         .row.justify-content-center.align-items-center
-          .col-2
+          .col-md-2.col-4.mb-md-0.mb-4
             figure(data-aos="zoom-in")
               img.p-4(src='@/assets/curso/tema1/img29.svg')
           .col-10
@@ -525,13 +525,13 @@
             p.text-center Ahora, una vez definido qué es realmente un modelo de planeación estratégica, se deben tener en cuenta los elementos que la contienen: estructura y evaluación.  
             .tarjeta-avatar-b.mb-5
               .tarjeta-avatar-b__img
-                img.px-3(src='@/assets/curso/tema1/img55.svg' alt='AvatarTop')
+                img.w-75(src='@/assets/curso/tema1/img55.svg' alt='AvatarTop')
               .tarjeta.BG06
                 .py-4.pe-4 
                   p.mb-0 La <b>estructura</b> se refiere a los diferentes componentes del plan estratégico y cómo encajan todos juntos. Por ejemplo, la estructura puede comenzar con la formulación de la visión, luego fluir hacia valores, áreas de enfoque y cualquier número de niveles de objetivos.
             .tarjeta-avatar-b.mb-5
               .tarjeta-avatar-b__img
-                img.px-3(src='@/assets/curso/tema1/img56.svg' alt='AvatarTop')
+                img.w-75(src='@/assets/curso/tema1/img56.svg' alt='AvatarTop')
               .tarjeta.BG06
                 .py-4.pe-4 
                   p.mb-0 La <b>evaluación</b> se refiere a cómo hará el seguimiento y la presentación de informes sobre los elementos de la meta de su estrategia.
@@ -645,40 +645,40 @@
         p.mb-5 A continuación, se describen los tipos de recursos existentes y necesarios en una organización para posicionarse en el mercado:
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row.justify-content-center.px-4(titulo="Recursos humanos")
-            .col-4.p-0
+            .col-md-4.col-6.mb-md-0.mb-4.p-0
               figure
                 img(src='@/assets/curso/tema1/img61.png')
-            .col-8
+            .col-md-8.col-10
               p Son las personas que trabajan para una organización. Sus habilidades y conocimientos son invaluables para los gerentes. La actitud de los expertos debe administrar la organización y saber trabajarla de manera efectiva. Enfatiza la oportunidad de aplicar el conocimiento y la necesidad de aprender y crecer al hacerlo, el conocimiento no tiene sentido a menos que haya la oportunidad de aplicarlo y esto se logra a través de la exposición.
               p La capacitación, por otro lado, es un esfuerzo organizacional destinado a ayudar a un empleado a adquirir las habilidades básicas requeridas para la ejecución efectiva y eficiente de las funciones para las que ha sido contratado.
             p El desarrollo de la mano de obra es típicamente una parte de la estrategia de recursos humanos de la organización y tiene como objetivo maximizar el potencial del capital humano para alcanzar los objetivos comerciales estratégicos 
           .row.justify-content-center.px-4(titulo="Recursos monetarios o financieros")
-            .col-4.p-0
+            .col-md-4.col-6.mb-md-0.mb-4.p-0
               figure
                 img(src='@/assets/curso/tema1/img62.png')
-            .col-8
+            .col-md-8.col-10
               p Estos, a menudo, incluyen efectivo, crédito y líneas de crédito, junto con la capacidad de tener opciones de planes de acciones para los empleados de la organización. La mayoría de las empresas tienen recursos financieros de manera regular, pero pocas empresas tendrán recursos financieros extremadamente sólidos, como los bancos, que se basan completamente en recursos financieros y los utilizan como un recurso clave.
             p La función de la administración es planificar, organizar, dotar de personal, dirigir y controlar. Cada una de estas funciones está influenciada en gran medida por la cantidad de dinero que hay. Los gerentes y el personal del programa simplemente no pueden llevar a cabo sus responsabilidades asignadas de manera efectiva sin comprender sus limitaciones financieras. Los gerentes deben tener algún medio para saber lo que está sucediendo con respecto a sus recursos financieros si van a tomar decisiones gerenciales informadas. Necesitan hacer un seguimiento de cómo se gasta el dinero, un informe que dicte cuánto dinero había, cuánto se gastó, en qué se gastó y cuánto queda. 
             p Esta responsabilidad se lleva a cabo instalando y administrando un sistema de contabilidad financiera, se dispone de una serie de programas informáticos aceptables para satisfacer esta necesidad contable. Por lo general, es innecesario para la mayoría de las organizaciones dedicar tiempo y recursos a diseñar e implementar un sistema único. 
           .row.justify-content-center.px-4(titulo="Recursos de capital o de producción")
-            .col-4.p-0
+            .col-md-4.col-6.mb-md-0.mb-4.p-0
               figure
                 img(src='@/assets/curso/tema1/img63.png')
-            .col-8
+            .col-md-8.col-10
               p Las materias primas son los elementos utilizados directamente para la fabricación de productos, proporcionando un suministro adecuado de materiales al menor costo posible; es decir, se ocupa de las materias primas, la adquisición de máquinas y otros equipos necesarios para el proceso de producción, y repuestos para el mantenimiento de la planta. 
               p Comienza con la determinación de la calidad y cantidad de los materiales, y finaliza con su envío a producción para satisfacer la demanda del cliente, según el cronograma y al menor costo.  
           .row.justify-content-center.px-4(titulo="Recursos comerciales")
-            .col-4.p-0
+            .col-md-4.col-6.mb-md-0.mb-4.p-0
               figure
                 img(src='@/assets/curso/tema1/img64.png')
-            .col-8
+            .col-md-8.col-10
               p Los recursos comerciales son de naturaleza no física e intangible, como las patentes del producto, las marcas de la organización, los datos del cliente y el conocimiento del cliente, e incluso el talento en la organización como una forma de recurso intelectual. 
               p Una vez que se desarrollan, pueden ofrecer ventajas únicas a la organización, como ofrecer descuentos y ofertas especiales para clientes habituales o compras repetidas del mismo cliente. Los tipos de recursos comerciales afectarán la sostenibilidad de la organización junto con su rentabilidad. 
           .row.justify-content-center.px-4(titulo="Recursos físicos")
-            .col-4.p-0
+            .col-md-4.col-6.mb-md-0.mb-4.p-0
               figure
                 img(src='@/assets/curso/tema1/img64.png')
-            .col-8
+            .col-md-8.col-10
               p Estos se consideran activos tangibles que la organización utiliza para crear una oferta de valor y una propuesta para sus clientes. Los recursos físicos pueden incluir el equipo, los edificios, el inventario, la planta de fabricación y la red de distribución, que son extremadamente cruciales para que el negocio funcione correctamente. Los recursos físicos son importantes para el funcionamiento de la organización, ya que, sin cosas como equipo, inventario y planta de fabricación es difícil que la empresa funcione.
             p Son las máquinas utilizadas durante el proceso de fabricación. Las máquinas modernas pueden mejorar en gran medida la eficiencia del proceso de fabricación. Si una organización usa maquinaria vieja y obsoleta, es posible que no pueda competir con una organización que use maquinaria más eficiente.  La gestión de materiales es la planificación, dirección, control y coordinación de aquellas actividades relacionadas con los requisitos de materiales e inventario, desde el punto de su inicio hasta su introducción en el proceso de fabricación.
       .col-md-8.col-10.mb-3.BG07.p-3
@@ -757,18 +757,18 @@
       .col-md-10.col-12
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row.justify-content-center.px-4(titulo="Estratégica")
-            .col-4.mb-4
+            .col-md-4.col-6.mb-4
               figure
                 img(src='@/assets/curso/tema1/img76.png')
-            .col-8
+            .col-md-8.col-10
               p Es una planeación a largo plazo, realizada por los directivos de la organización. Analiza cómo inciden los factores externos e internos en los objetivos establecidos: campañas publicitarias, presencia en los medios, incursión en el mercado, etc.
               p La planeación estratégica es el proceso de la empresa de definir objetivos, misiones y valores organizacionales (incluida su dirección a largo plazo), para comprender mejor los recursos y el presupuesto que necesita asignar para garantizar la eficacia del plan. Esto puede incluir definir qué acciones deben tomarse para lograr esos objetivos desde un alto nivel.
             p El plan estratégico se ejecuta de arriba hacia abajo; además, su alcance es limitado y puede cambiar anualmente con énfasis en el mapeo de actividades de rutina.
           .row.justify-content-center.px-4(titulo="Táctica")
-            .col-4.mb-4
+            .col-md-4.col-6.mb-4
               figure
                 img(src='@/assets/curso/tema1/img77.png')
-            .col-8
+            .col-md-8.col-10
               p Son los planes que están diseñados para enfrentar una crisis y por eso están ligados a decisiones de corto plazo que responden al plan estratégico. La planeación táctica es un tipo de planificación que implica dividir un plan estratégico a largo plazo en planes a corto plazo. Las empresas y los equipos suelen utilizar este tipo de plan cuando tienen objetivos a largo plazo que se extienden más allá de dos o tres años. 
               p Hay varios elementos clave de un plan táctico:
             .BG01.p-3.mb-4
@@ -800,10 +800,10 @@
                 <i class="fas fa-circle fa-xs" style="color:#359547!important;"></i>
                 | Permite a los departamentos y equipos priorizar su trabajo, y garantiza que cada tarea se vincula con la estrategia general. 
           .row.justify-content-center.px-4(titulo="Operacional")
-            .col-4.mb-4
+            .col-md-4.col-6.mb-4
               figure
                 img(src='@/assets/curso/tema1/img78.png')
-            .col-8
+            .col-md-8.col-10
               p Este plan aborda la forma en que se organizan los recursos (incluidos los empleados) para la resolución de conflictos. Un plan de operaciones resume cómo creará y entregará su producto o servicio a sus clientes. Los tipos de problemas operativos que enfrentará variarán según el tipo de negocio que opere. En la mayoría de las empresas, suceden muchas cosas además del negocio principal de proporcionar productos o servicios a los clientes. 
               p La planeación operativa es lo que sucede cuando un equipo o departamento se basa en un plan estratégico de toda la empresa orientado al futuro: traza los presupuestos y objetivos del departamento para impulsar el éxito del plan estratégico con actividades específicas basadas en el equipo para los próximos 1 a 3 años.
             p Los planes operativos funcionan mejor cuando todo un departamento participa, asigna fechas de vencimiento para tareas, mide objetivos para el éxito, informa sobre problemas y colabora de manera efectiva. 
@@ -815,20 +815,20 @@
       .col-md-10
         PasosA.color-acento-botones.mb-5(tipo="l")
           div
-            h4 1. Visualizar el plan operativo
+            h4 <span style="background-color:#03386E !important; color:#fff">1</span> Visualizar el plan operativo
             p Las características principales de un plan operativo incluyen tareas para lograr objetivos particulares y claramente definidos, además de la gestión de su personal para garantizar que funcionen a niveles óptimos. Identifique su visión en lo que respecta a esos niveles y luego podrá comenzar con la fase de investigación.
           div
-            h4 2. Investigar e identificar metas
+            h4 <span style="background-color:#03386E !important; color:#fff">2</span> Investigar e identificar metas
             p Para comenzar a desarrollar su plan operativo, comience por examinar sus objetivos, es decir, con qué presupuesto cuenta y rendición de cuentas con respecto a vigencias anteriores. Aborde esto desde una perspectiva presupuestaria, una perspectiva de recursos y desde la perspectiva de un miembro del equipo. Hay que pensar en esta época el próximo año, dentro de dos años, dentro de tres años, etc.
             p Esto puede incluir plazos de lanzamiento de productos, cantidad de productos fabricados, cantidad de casos de servicio al cliente cerrados, cantidad de reseñas de 5 estrellas recibidas, cantidad de clientes adquiridos, ingresos aumentados en un cierto porcentaje, etc.
           div
-            h4 3. Asignar presupuestos y personas
+            h4 <span style="background-color:#03386E !important; color:#fff">3</span> Asignar presupuestos y personas
             p Una vez que haya trazado sus objetivos, es importante tener en cuenta que el presupuesto de su plan operativo proviene del presupuesto anual de su departamento. Entonces, dicho esto, el presupuesto es lo más importante a considerar al comenzar a asignar tareas, recursos y presupuesto para los miembros del equipo.
           div
-            h4 4. Informe sobre el plan operativo
+            h4 <span style="background-color:#03386E !important; color:#fff">4</span> Informe sobre el plan operativo
             p Una vez que se haya trazado el plan operativo, que debe incluir objetivos claros con entregables, metas, cronogramas y el personal necesario para lograr el plan, hay que desarrollar un proceso para informar sobre la ejecución del plan.
 
-    .cajon.color-secundario.p-4
+    .cajon.color-secundario.p-4.mb-4
       p.mb-0 A modo de resumen, entonces, se pueden sintetizar los tipos de planeación de acuerdo con su periodo y amplitud, tal como se percibe en la siguiente tabla. Esto es interesante en el sentido que permite saber qué tipo de planeación se podría implementar de acuerdo con la necesidad que tenga la empresa en ese momento.
 
     .row.justify-content-center.mb-5
@@ -929,7 +929,7 @@
 
     .row.justify-content-center
       .col-lg-4.col-8
-        a.anexo.mb-4(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('downloads/anexo_cronogramas.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto

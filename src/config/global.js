@@ -251,7 +251,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Oscar Ivan Uribe Ortiz',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
@@ -274,29 +274,25 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Diego Fernando Velasco Güiza',
         cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Andrés Mauricio Santaella Ochoa',
+        cargo: 'Soporte front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Yenny Patricia Ulloa Villamizar',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [
-      {
-        nombre: 'Álvaro Andrés Angarita Ramirez',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
-      },
-      {
-        nombre: 'Daniel Felipe Varón Molina',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
-      },
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',

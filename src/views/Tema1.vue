@@ -53,7 +53,8 @@
             figure
               img(src='@/assets/curso/tema1/img05.svg')
         h2.text-center Dinámica
-        p La administración es una función dinámica y evoluciona, se adapta a los cambios de su entorno, ya sean económicos, sociopolíticos o tecnológicos. Que la empresa pueda sobrevivir todavía depende de la eficacia con la que su administración pueda adaptarse a los nuevos requisitos del mercado.
+        p La administración es una función dinámica que evoluciona y se adapta a los cambios de su entorno, ya sean económicos, sociopolíticos o tecnológicos. 
+        p Que la empresa pueda sobrevivir todavía depende de la eficacia con la que su administración pueda adaptarse a los nuevos requisitos del mercado.
       .col-md.tarjeta.color-acento-botones.p-5(data-aos="fade-left")
         .row.justify-content-center.mb-4
           .col-4
@@ -213,7 +214,7 @@
                 img(src='@/assets/curso/tema1/img19.png')
             .col-md-8.col-10
               p Ayudan a las empresas a medir su posición frente a los competidores de la industria. Estos objetivos tienden a enfocarse en las formas en que una organización puede superar a la competencia en participación de mercado, calidad del producto y reconocimiento de marca. 
-              p Por ejemplo, si se posee una tienda de zapatos, un ejemplo de un objetivo de ventas podría ser <span style="color:#2B7E3B !important; font-weight: bold;">“aumentar sus ventas mensuales en un 10 % durante el transcurso del año”</span>. Para hacer esto, es posible que deba implementar una estrategia de marketing para atraer nuevos compradores o introducir nuevos artículos que le permitan aumentar las ventas a sus clientes existentes. Su empresa debe contratar empleados talentosos, que puedan implementar sus decisiones y mantener la productividad y la eficiencia. 
+              p Por ejemplo, si se posee una tienda de zapatos, un ejemplo de un objetivo de ventas podría ser <span style="color:#2B7E3B !important; font-weight: bold;">“aumentar sus ventas mensuales en un 10 % durante el transcurso del año”</span>. Para hacer esto, es posible que deba implementar una estrategia de #[i marketing] para atraer nuevos compradores o introducir nuevos artículos que le permitan aumentar las ventas a sus clientes existentes. Su empresa debe contratar empleados talentosos, que puedan implementar sus decisiones y mantener la productividad y la eficiencia. 
           .row.justify-content-center.px-4(titulo="Objetivos de recursos")
             .col-md-4.col-6.p-0.mb-md-0.mb-4
               figure
@@ -228,7 +229,7 @@
                 img(src='@/assets/curso/tema1/img21.png')
             .col-md-8.col-10
               p Centrándose en el servicio al cliente, los gerentes comerciales establecen objetivos que se enfocan en brindar un servicio de calidad al cliente. Estos objetivos intentan <span style="color:#2B7E3B !important; font-weight: bold;">medir la satisfacción del cliente con los costos y la calidad general de un producto o servicio</span>. Otro podría ser reducir el número y la frecuencia de las devoluciones y quejas de los clientes, o mejorar el tiempo de respuesta a las consultas de los clientes. Establecer conciencia de marca.
-              p En la era del <em>marketing</em> en redes sociales, muchas pequeñas empresas están descubriendo que el marketing de marca es otro objetivo vital. La marca trata de vender la experiencia de su producto o servicio al comunicarle a su audiencia cómo su negocio satisface un deseo o necesidad y hace que sus vidas sean más convenientes. Un objetivo de marca podría ser <span style="color:#2B7E3B !important; font-weight: bold;">“aumentar su conocimiento de las redes sociales mediante el análisis de una métrica como las visitas al sitio web”</span>.
+              p En la era del #[i marketing] en redes sociales, muchas pequeñas empresas están descubriendo que el #[i marketing] de marca es otro objetivo vital. La marca trata de vender la experiencia de su producto o servicio al comunicarle a su audiencia cómo su negocio satisface un deseo o necesidad y hace que sus vidas sean más convenientes. Un objetivo de marca podría ser <span style="color:#2B7E3B !important; font-weight: bold;">“aumentar su conocimiento de las redes sociales mediante el análisis de una métrica como las visitas al sitio web”</span>.
             .BG01.p-4
               p Un objetivo comercial común es ejecutar una operación rentable, lo que generalmente significa aumentar los ingresos y limitar los gastos. Para alcanzar esta meta, los objetivos podrían consistir en <span style="color:#2B7E3B !important; font-weight: bold;">aumentar las ventas anuales en un 10 % o conseguir tres nuevas cuentas cada mes</span>.
           .row.justify-content-center.px-4(titulo="Objetivos de <em>marketing</em>")
@@ -236,14 +237,14 @@
               figure
                 img(src='@/assets/curso/tema1/img22.png')
             .col-md-8.col-10
-              p Un plan de promoción describe las herramientas y tácticas que utilizará una empresa para lograr sus objetivos de <em>marketing</em>. Por ejemplo, si un objetivo de <em>marketing</em> es <span style="color:#2B7E3B !important; font-weight: bold;">“crear conciencia de marca para un material de construcción entre los constructores de una ciudad específica”</span>, las herramientas y tácticas pueden incluir anuncios en las revistas de asociaciones locales de constructores de viviendas, patrocinar un evento al que asistan constructores u ofrecer descuentos promocionales a los constructores para que prueben el producto.
+              p Un plan de promoción describe las herramientas y tácticas que utilizará una empresa para lograr sus objetivos de #[i marketing]. Por ejemplo, si un objetivo de #[i marketing] es <span style="color:#2B7E3B !important; font-weight: bold;">“crear conciencia de marca para un material de construcción entre los constructores de una ciudad específica”</span>, las herramientas y tácticas pueden incluir anuncios en las revistas de asociaciones locales de constructores de viviendas, patrocinar un evento al que asistan constructores u ofrecer descuentos promocionales a los constructores para que prueben el producto.
           .row.justify-content-center.px-4(titulo="Objetivos operativos")
             .col-md-4.col-6.p-0.mb-md-0.mb-4
               figure
                 img(src='@/assets/curso/tema1/img23.png')
             .col-md-8.col-10
               p Los objetivos operativos son el desglose de las metas diarias, semanales o mensuales del proyecto en tareas factibles, para ayudar a la gerencia y al personal a lograr el plan estratégico de promoción general. 
-              p Establecer los objetivos correctos es crucial para crear conciencia, atraer clientes potenciales y convertirlos en clientes. Al igual que con los objetivos estratégicos, los objetivos operativos de marketing deben ser cuantificables y específicos, pero con un enfoque más limitado.
+              p Establecer los objetivos correctos es crucial para crear conciencia, atraer clientes potenciales y convertirlos en clientes. Al igual que con los objetivos estratégicos, los objetivos operativos de #[i marketing] deben ser cuantificables y específicos, pero con un enfoque más limitado.
           .row.justify-content-center.px-4(titulo="Objetivos financieros")
             .col-md-4.col-6.p-0.mb-md-0.mb-4
               figure
@@ -404,7 +405,7 @@
                 .tarjeta-flip__contenedor
                   .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema1/img41.svg')})`}")
                   .tarjeta-flip__contenido.p-md-4.p-5
-                    p <b>Funcional:</b> los planes estratégicos centrados en funciones se ajustan a las estrategias a nivel corporativo y brindan un examen general de departamentos o segmentos específicos, como marketing, recursos humanos y finanzas. 
+                    p <b>Funcional:</b> los planes estratégicos centrados en funciones se ajustan a las estrategias a nivel corporativo y brindan un examen general de departamentos o segmentos específicos, como #[i marketing], recursos humanos y finanzas. 
                     p Los planes funcionales se centran en la política y el proceso, como la seguridad y el cumplimiento, asimismo, se establecen presupuestos y asignaciones de recursos.
 
     .row.justify-content-center.mb-4
@@ -808,7 +809,7 @@
               p La planeación operativa es lo que sucede cuando un equipo o departamento se basa en un plan estratégico de toda la empresa orientado al futuro: traza los presupuestos y objetivos del departamento para impulsar el éxito del plan estratégico con actividades específicas basadas en el equipo para los próximos 1 a 3 años.
             p Los planes operativos funcionan mejor cuando todo un departamento participa, asigna fechas de vencimiento para tareas, mide objetivos para el éxito, informa sobre problemas y colabora de manera efectiva. 
 
-    p Los planes operativos funcionan mejor cuando todo un departamento participa, asigna fechas de vencimiento para tareas, mide objetivos para el éxito, informa sobre problemas y colabora de manera efectiva. 
+    p El beneficio principal de la planificación operativa es que se puede ver el efecto de sus operaciones en el resultado final del negocio en tiempo real, o en cada punto de referencia, para que se sepa exactamente cuándo actuar. De ahí, la importancia de que esté tan personalizado para cada departamento, pues es así como se sabe exactamente dónde fallan las cosas y por qué.
     p Dado que los planes operativos se construyen en un esfuerzo por asignar fondos, recursos y personal para cada periodo de 1 a 3 años, todos los pasos que debe incluir un plan operativo deberían servir, en última instancia, para ese esfuerzo. A continuación, se describe cada uno de sus pasos.
 
     .row.justify-content-center
@@ -882,9 +883,9 @@
           img(src='@/assets/curso/tema1/img84.png')
       .col-md-6.col-12.mb-3.py-3
         p <span style="background-color: #3AE3FE; font-weight: bold;">  1 </span> La actividad que se está realizando actualmente. 
-        p <span style="background-color: #3AE3FE; font-weight: bold;">  2 </span> Qué actividades deben realizarse a continuación. 
+        p <span style="background-color: #3AE3FE; font-weight: bold;">  2 </span> Las actividades que deben realizarse a continuación.
         p <span style="background-color: #3AE3FE; font-weight: bold;">  3 </span> Las actividades que ya se han realizado. 
-        p <span style="background-color: #3AE3FE; font-weight: bold;">  4 </span> Qué cambios se producen en las actividades.
+        p <span style="background-color: #3AE3FE; font-weight: bold;">  4 </span> Los cambios que se producen en las actividades.
         p Asimismo, tiene unas características específicas:
     
     .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
@@ -956,7 +957,7 @@
   .container.container02.px-4.px-md-5
     .row.justify-content-center
       .col-md-10.col-12.mb-5
-        ImagenInfografica.color-acento-botones.mb-5
+        ImagenInfograficaB.color-acento-botones.mb-5
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/tema1/img88.svg')

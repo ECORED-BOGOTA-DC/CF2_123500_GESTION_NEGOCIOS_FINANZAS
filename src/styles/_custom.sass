@@ -104,7 +104,12 @@
 
 .BG09
   background: linear-gradient(to left, #F8FEFA,#EBF0F4)
- 
+
+.BG10
+  background-color: #FEF5E5
+  position: relative
+  width: 500px
+  left: -25%
 
 .tarjeta.color-primario, .tarjeta--azul, .BG04, .pasos-a.color-acento-botones .pasos-a__circle
   background-color: #E1EFE3
@@ -114,6 +119,10 @@
 
 .tarjeta.color-acento-contenido, .img-infografica-b__modal, .tarjeta-avatar-b .tarjeta
   background-color: #E1FBFF
+
+.img-infografica-b__modal
+  display: flex
+  align-items: center
 
 .tarjeta.color-acento-botones, .cajon.color-secundario, .tabs-c__tab
   background-color: #EAEFF3
@@ -152,4 +161,31 @@
 .fa-chevron-right:before, .fa-chevron-left:before
   color: #FCC15A
 
+.tabs-c__header
+  margin-bottom: 0
 
+.fondo1
+  background-image: url('../assets/curso/tema1/figura1.svg')
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: left
+
+.imagen01
+  width: 65%
+  position: relative
+  left: 25px
+
+.imagen02
+  width: 38% !important
+  top: 2% !important
+
+.imagen03
+  width: 75%
+  @media (max-width: $bp-max-sm)
+    width: 80%
+    position: relative
+    left: 10%
+  
+table
+  @media (max-width: $bp-max-sm)
+    min-width: 1000px

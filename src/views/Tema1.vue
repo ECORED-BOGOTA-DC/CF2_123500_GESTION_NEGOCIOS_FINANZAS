@@ -759,7 +759,7 @@
             .col-md-4.col-6.mb-4
               figure
                 img(src='@/assets/curso/tema1/img76.png')
-            .col-md-8.col-10
+            .col-md-8
               p Es una planeación a largo plazo, realizada por los directivos de la organización. Analiza cómo inciden los factores externos e internos en los objetivos establecidos: campañas publicitarias, presencia en los medios, incursión en el mercado, etc.
               p La planeación estratégica es el proceso de la empresa de definir objetivos, misiones y valores organizacionales (incluida su dirección a largo plazo), para comprender mejor los recursos y el presupuesto que necesita asignar para garantizar la eficacia del plan. Esto puede incluir definir qué acciones deben tomarse para lograr esos objetivos desde un alto nivel.
             p El plan estratégico se ejecuta de arriba hacia abajo; además, su alcance es limitado y puede cambiar anualmente con énfasis en el mapeo de actividades de rutina.
@@ -767,7 +767,7 @@
             .col-md-4.col-6.mb-4
               figure
                 img(src='@/assets/curso/tema1/img77.png')
-            .col-md-8.col-10
+            .col-md-8
               p Son los planes que están diseñados para enfrentar una crisis y por eso están ligados a decisiones de corto plazo que responden al plan estratégico. La planeación táctica es un tipo de planificación que implica dividir un plan estratégico a largo plazo en planes a corto plazo. Las empresas y los equipos suelen utilizar este tipo de plan cuando tienen objetivos a largo plazo que se extienden más allá de dos o tres años. 
               p Hay varios elementos clave de un plan táctico:
             .BG01.p-3.mb-4
@@ -802,7 +802,7 @@
             .col-md-4.col-6.mb-4
               figure
                 img(src='@/assets/curso/tema1/img78.png')
-            .col-md-8.col-10
+            .col-md-8
               p Este plan aborda la forma en que se organizan los recursos (incluidos los empleados) para la resolución de conflictos. Un plan de operaciones resume cómo creará y entregará su producto o servicio a sus clientes. Los tipos de problemas operativos que enfrentará variarán según el tipo de negocio que opere. En la mayoría de las empresas, suceden muchas cosas además del negocio principal de proporcionar productos o servicios a los clientes. 
               p La planeación operativa es lo que sucede cuando un equipo o departamento se basa en un plan estratégico de toda la empresa orientado al futuro: traza los presupuestos y objetivos del departamento para impulsar el éxito del plan estratégico con actividades específicas basadas en el equipo para los próximos 1 a 3 años.
             p Los planes operativos funcionan mejor cuando todo un departamento participa, asigna fechas de vencimiento para tareas, mide objetivos para el éxito, informa sobre problemas y colabora de manera efectiva. 
@@ -994,7 +994,7 @@
             .col-md-10
               p <b> Paso No. 3. </b> Identificar las causas principales que contribuyen al efecto que se está estudiando. Estas son las etiquetas para las principales ramas del diagrama y se convierten en categorías bajo las cuales enumerar las muchas causas relacionadas con las mismas. Luego de etiquetar, hay que trazar una línea diagonal para formar una rama que conecta la categoría con la columna vertebral.
           .row.justify-content-center(titulo="Paso 4")
-            .col-md-3
+            .col-md-3.col-6
               figure
                 img(src='@/assets/curso/tema1/img89.svg')
             .col-md-7
@@ -1004,7 +1004,7 @@
                   <i class="fas fa-circle fa-xs" style="color:#359547!important;"></i>
                   | Si una causa menor se aplica a más de una causa mayor, hay que anotar ambas. 
           .row.justify-content-center(titulo="Paso 5")
-            .col-md-3
+            .col-md-3.col-6
               figure
                 img(src='@/assets/curso/tema1/img90.svg')
             .col-md-7

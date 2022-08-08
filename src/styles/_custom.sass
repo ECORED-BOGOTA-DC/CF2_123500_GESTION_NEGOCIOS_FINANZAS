@@ -130,6 +130,11 @@
 .acordion__accion__btn--a, .fa-times:before, .slyder-a__btn--sigt, .slyder-a__btn--atrs, .slyder-a__bullets__item--active, .linea-tiempo-c__header__btn, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right, .pasos-b__header__btn--left, .pasos-b__header__btn--right
   background-color: #FCC15A !important
 
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  @media (max-width: $bp-max-md)
+    width: 25px
+    height: 25px
+
 .fa-times:before
   color: black
   padding: 3px
@@ -174,6 +179,9 @@
   width: 65%
   position: relative
   left: 25px
+  @media (max-width: $bp-max-sm)
+    width: 100%
+    left: -5px
 
 .imagen02
   width: 38% !important
@@ -186,6 +194,9 @@
     position: relative
     left: 10%
   
+.imagen04 .img-infografica-b__item__tooltip
+  padding: 0
+  
 table
-  @media (max-width: $bp-max-sm)
-    min-width: 1000px
+  @media (max-width: $bp-max-md)
+    min-width: 1000px !important

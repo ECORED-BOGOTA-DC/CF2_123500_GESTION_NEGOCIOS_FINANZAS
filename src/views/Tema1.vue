@@ -311,7 +311,7 @@
 
     p.mb-5 Ahora bien, para construir una planeación estratégica, se requiere tener en cuenta ciertos pasos fundamentales. En el interactivo, se puede visualizar y explorar en qué consiste cada uno de ellos.
 
-    ImagenInfograficaB.color-acento-botones.mb-5
+    ImagenInfograficaB.imagen04.color-acento-botones.mb-5
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/tema1/img30.svg')
@@ -519,7 +519,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-10.col-md-11.col-12.BGIMG05.py-4  
-        .row.justify-content-center
+        .row.justify-content-center.align-items-center
           .col-md-11.col-12.px-4  
             p.text-center Ahora, una vez definido qué es realmente un modelo de planeación estratégica, se deben tener en cuenta los elementos que la contienen: estructura y evaluación.  
             .tarjeta-avatar-b.mb-5
@@ -591,11 +591,11 @@
 
     .row.mb-5
       .col-auto
-        h4.ps-4.pb-2.mb-0.fondo1 Modelos gerenciales
+        h4.ps-5.pb-3.mb-0.fondo1 Modelos gerenciales
 
     p.mb-5 Este tipo de modelo, al igual que los anteriores, tiene una clasificación específica, la cual está enfocada, como bien lo indica, en procesos gerenciales de una organización. Dependiendo del logro a alcanzar, se implementa alguno de estos modelos.
 
-    ImagenInfograficaB.color-acento-botones.mb-5
+    ImagenInfograficaB.imagen04.color-acento-botones.mb-5
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/tema1/img60.svg')
@@ -955,7 +955,7 @@
   .container.container02.px-4.px-md-5
     .row.justify-content-center
       .col-md-10.col-12.mb-5
-        ImagenInfograficaB.color-acento-botones.mb-5
+        ImagenInfograficaB.imagen04.color-acento-botones.mb-5
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/tema1/img88.svg')

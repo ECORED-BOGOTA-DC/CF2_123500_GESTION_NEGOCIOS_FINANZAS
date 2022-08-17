@@ -110,7 +110,7 @@
             .BG01.px-3.py-2
               p Por ejemplo, los supervisores de una cadena de comida rápida a menudo microgestionan a los cajeros, el personal de cocina, el personal de entrega y los meseros, para asegurarse de que la comida y el servicio en su sucursal cumplan con los estándares de calidad. La alta dirección prescribe estos estándares de calidad y, por lo general, evolucionan con el tiempo.
 
-    p.mb-5 Sumado a lo anterior, toda administración necesita trazar una ruta de mando interno que permita establecer niveles, roles y responsabilidades, que a su vez se asumen para enfrentar el rumbo de la organización, teniendo en cuenta tanto sus características como sus funciones per se. Los niveles de la administración se pueden clasificar en tres escalas: la alta dirección, el mando intermedio y la gestión operativa, tal como se aprecia en la figura.
+    p.mb-5 Sumado a lo anterior, toda administración necesita trazar una ruta de mando interno que permita establecer niveles, roles y responsabilidades, que a su vez se asumen para enfrentar el rumbo de la organización, teniendo en cuenta tanto sus características como sus funciones #[i per se]. Los niveles de la administración se pueden clasificar en tres escalas: la alta dirección, el mando intermedio y la gestión operativa, tal como se aprecia en la figura.
 
     .row.justify-content-center.mb-5
       .col-md-10.col-12
@@ -381,7 +381,7 @@
               :style="{'background-image': `url(${require('@/assets/curso/tema1/img38.png')})`}"
             )(data-aos="fade-right")
             .bloque-texto-g__texto.p-4
-              p Por ejemplo, un objetivo de aprendizaje y crecimiento puede ser aumentar la experiencia de los empleados, pero eso puede exponer desafíos inesperados en la retención y compensación de los empleados.
+              p Por ejemplo, un objetivo de aprendizaje y crecimiento puede ser aumentar la experiencia de los empleados, pero eso puede exponer desafíos inesperados en la retención y compensación de los empleados.<br><br>
               p.mb-0 Las actividades de planeación estratégica suelen centrarse en tres áreas: comercial, corporativa y funcional; a continuación, se describe cada uno de los tipos de planes estratégicos:
           .row.justify-content-center
             .col-xl-4.col-lg-6.col-11.mb-lg-0.mb-3
@@ -625,7 +625,7 @@
       div(x="84.7%" y="72%" )
         .row.justify-content-center.align-items-center
           .col-md-11
-            h5 Benchmarking
+            h5 #[i Benchmarking]
             p Tiene como objetivo proponer un modelo de evaluación comparativa, que se puede aplicar para todos los tipos de mediciones. Es necesario evaluar los puntos fuertes y débiles de la operación interna. 
             p Solo se estará preparado para diferenciar sus posibilidades en el mercado si se conoce la fuerza y debilidad de las competencias.
 
@@ -1011,7 +1011,7 @@
               p <b> Paso No. 5. </b> Identificar niveles de causas cada vez más detallados y continuar con el diseño del diagrama. Las causas se pueden organizar mediante la formulación de la pregunta por qué.
           .row.justify-content-center(titulo="Paso 6")
             .col-md-10
-              p <b> Paso No. 6. </b> Analizar el diagrama para identificar las causas que justifican el problema. Dado que los diagramas de causa y efecto identifican sólo posibles causas, hay que buscar las causas que aparecen repetidamente, pues estas pueden representar causas fundamentales. También es necesario buscar aquellas que se pueden medir y cuantificar para posibles cambios que se realicen. 
+              p <b> Paso No. 6. </b> Analizar el diagrama para identificar las causas que justifican el problema. Dado que los diagramas de causa y efecto identifican solo posibles causas, hay que buscar las causas que aparecen repetidamente, pues estas pueden representar causas fundamentales. También es necesario buscar aquellas que se pueden medir y cuantificar para posibles cambios que se realicen. 
               p Este último paso es crucial, ya que invita a analizar en equipo el resultado del diagrama de causa y efecto. En esta etapa, se debe tener un diagrama que muestre todas las posibles causas del problema que se les ocurran. Esto puede implicar la exploración e indagación, la realización de encuestas y entrevistas, además de evaluaciones diseñadas para probar cuál de estas posibles causas está realmente contribuyendo al problema.
           .row.justify-content-center(titulo="Beneficios")
             .col-md-10
